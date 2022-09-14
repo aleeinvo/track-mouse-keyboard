@@ -20,6 +20,6 @@
     "electron": "^18.2.0"
   },
   "dependencies": {
-    "uiohook-napi": "^1.2.0"
+    "uiohook-napi": "^1.5.0"
   }
 }
